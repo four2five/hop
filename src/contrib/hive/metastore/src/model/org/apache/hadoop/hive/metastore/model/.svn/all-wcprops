@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/src/contrib/hive/metastore/src/model/org/apache/hadoop/hive/metastore/model
+END
+MOrder.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2/trunk/src/contrib/hive/metastore/src/model/org/apache/hadoop/hive/metastore/model/MOrder.java
+END
+MSerDeInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2/trunk/src/contrib/hive/metastore/src/model/org/apache/hadoop/hive/metastore/model/MSerDeInfo.java
+END
+MType.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2/trunk/src/contrib/hive/metastore/src/model/org/apache/hadoop/hive/metastore/model/MType.java
+END
+MStorageDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/2/trunk/src/contrib/hive/metastore/src/model/org/apache/hadoop/hive/metastore/model/MStorageDescriptor.java
+END
+MFieldSchema.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/2/trunk/src/contrib/hive/metastore/src/model/org/apache/hadoop/hive/metastore/model/MFieldSchema.java
+END
+MDatabase.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2/trunk/src/contrib/hive/metastore/src/model/org/apache/hadoop/hive/metastore/model/MDatabase.java
+END
+MTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2/trunk/src/contrib/hive/metastore/src/model/org/apache/hadoop/hive/metastore/model/MTable.java
+END
+MPartition.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2/trunk/src/contrib/hive/metastore/src/model/org/apache/hadoop/hive/metastore/model/MPartition.java
+END

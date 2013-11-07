@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/577/trunk/src/mapred/org/apache/hadoop/mapred/buffer
+END
+Manager.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/570/trunk/src/mapred/org/apache/hadoop/mapred/buffer/Manager.java
+END
+BufferUmbilicalProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/577/trunk/src/mapred/org/apache/hadoop/mapred/buffer/BufferUmbilicalProtocol.java
+END
+OutputFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/570/trunk/src/mapred/org/apache/hadoop/mapred/buffer/OutputFile.java
+END

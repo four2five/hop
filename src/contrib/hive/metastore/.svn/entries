@@ -1,0 +1,77 @@
+10
+
+dir
+1058
+http://hop.googlecode.com/svn/trunk/src/contrib/hive/metastore
+http://hop.googlecode.com/svn
+
+
+
+2009-11-06T05:37:28.476499Z
+2
+neil.conway
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+16c7f58c-ca77-11de-a9c8-2fbcfba63733
+
+if
+dir
+
+build.xml
+file
+
+
+
+
+2013-11-06T23:26:07.641167Z
+d8d08310cb3dba1b85797feb32696001
+2009-11-06T05:37:28.476499Z
+2
+neil.conway
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3571
+
+include
+dir
+
+src
+dir
+
+scripts
+dir
+
+bin
+dir
+

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/src/contrib/hive/metastore/include/thrift/protocol
+END
+TBinaryProtocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/src/contrib/hive/metastore/include/thrift/protocol/TBinaryProtocol.h
+END
+TDebugProtocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/src/contrib/hive/metastore/include/thrift/protocol/TDebugProtocol.h
+END
+TProtocolException.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/src/contrib/hive/metastore/include/thrift/protocol/TProtocolException.h
+END
+TDenseProtocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/src/contrib/hive/metastore/include/thrift/protocol/TDenseProtocol.h
+END
+TProtocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/src/contrib/hive/metastore/include/thrift/protocol/TProtocol.h
+END
+TOneWayProtocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/src/contrib/hive/metastore/include/thrift/protocol/TOneWayProtocol.h
+END

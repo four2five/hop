@@ -1,0 +1,263 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/exec
+END
+ExprNodeEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/exec/ExprNodeEvaluator.java
+END
+ReduceSinkOperator.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/exec/ReduceSinkOperator.java
+END
+ColumnInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/exec/ColumnInfo.java
+END
+Utilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/exec/Utilities.java
+END
+FunctionRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/exec/FunctionRegistry.java
+END
+UDAF.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/exec/UDAF.java
+END
+FileSinkOperator.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/exec/FileSinkOperator.java
+END
+ExplainTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/exec/ExplainTask.java
+END
+ExprNodeFuncEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/exec/ExprNodeFuncEvaluator.java
+END
+ExtractOperator.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/exec/ExtractOperator.java
+END
+DDLTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/exec/DDLTask.java
+END
+MoveTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/exec/MoveTask.java
+END
+ExecMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/exec/ExecMapper.java
+END
+LimitOperator.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/exec/LimitOperator.java
+END
+TaskFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/exec/TaskFactory.java
+END
+SelectOperator.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/exec/SelectOperator.java
+END
+MapRedTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/exec/MapRedTask.java
+END
+ByteWritable.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/exec/ByteWritable.java
+END
+CopyTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/exec/CopyTask.java
+END
+ExecReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/exec/ExecReducer.java
+END
+ExprNodeNullEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/exec/ExprNodeNullEvaluator.java
+END
+GroupByOperator.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/exec/GroupByOperator.java
+END
+FunctionTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/exec/FunctionTask.java
+END
+ExprNodeFieldEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/exec/ExprNodeFieldEvaluator.java
+END
+JoinOperator.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/exec/JoinOperator.java
+END
+FetchTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/exec/FetchTask.java
+END
+UDF.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/exec/UDF.java
+END
+ScriptOperator.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/exec/ScriptOperator.java
+END
+ForwardOperator.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/exec/ForwardOperator.java
+END
+ExprNodeConstantEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/exec/ExprNodeConstantEvaluator.java
+END
+OperatorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/exec/OperatorFactory.java
+END
+ExprNodeColumnEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/exec/ExprNodeColumnEvaluator.java
+END
+TerminalOperator.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/exec/TerminalOperator.java
+END
+RowSchema.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/exec/RowSchema.java
+END
+MapOperator.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/exec/MapOperator.java
+END
+Operator.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/exec/Operator.java
+END
+ExprNodeEvaluatorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/exec/ExprNodeEvaluatorFactory.java
+END
+ExprNodeIndexEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/exec/ExprNodeIndexEvaluator.java
+END
+ExecDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/exec/ExecDriver.java
+END
+CollectOperator.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/exec/CollectOperator.java
+END
+FilterOperator.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/exec/FilterOperator.java
+END
+FunctionInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/exec/FunctionInfo.java
+END
+Task.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/exec/Task.java
+END

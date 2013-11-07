@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/src/c++/libhdfs/tests/conf
+END
+slaves
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/src/c++/libhdfs/tests/conf/slaves
+END
+hadoop-site.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/src/c++/libhdfs/tests/conf/hadoop-site.xml
+END

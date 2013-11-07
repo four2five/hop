@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/src/contrib/hive/metastore/include/thrift
+END
+TReflectionLocal.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/src/contrib/hive/metastore/include/thrift/TReflectionLocal.h
+END
+TLogging.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/src/contrib/hive/metastore/include/thrift/TLogging.h
+END
+Thrift.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/src/contrib/hive/metastore/include/thrift/Thrift.h
+END
+TProcessor.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/src/contrib/hive/metastore/include/thrift/TProcessor.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/src/contrib/hive/metastore/include/thrift/config.h
+END
+reflection_limited_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/src/contrib/hive/metastore/include/thrift/reflection_limited_types.h
+END

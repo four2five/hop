@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/567/trunk/conf
+END
+sslinfo.xml.example
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/conf/sslinfo.xml.example
+END
+slaves.template
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/95/trunk/conf/slaves.template
+END
+monitor.olg
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/567/trunk/conf/monitor.olg
+END
+capacity-scheduler.xml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/conf/capacity-scheduler.xml
+END
+masters.template
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/95/trunk/conf/masters.template
+END
+hadoop-metrics.properties
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/conf/hadoop-metrics.properties
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/conf/log4j.properties
+END
+hadoop-default.xml
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/conf/hadoop-default.xml
+END
+hadoop-site.xml
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/255/trunk/conf/hadoop-site.xml
+END
+configuration.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/conf/configuration.xsl
+END
+hadoop-env.sh.template
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/95/trunk/conf/hadoop-env.sh.template
+END

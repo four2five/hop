@@ -1,0 +1,353 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/udf
+END
+UDFOPOr.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/udf/UDFOPOr.java
+END
+UDFToDate.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/udf/UDFToDate.java
+END
+UDFFloor.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/udf/UDFFloor.java
+END
+UDFBaseCompare.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/udf/UDFBaseCompare.java
+END
+UDFOPPlus.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/udf/UDFOPPlus.java
+END
+UDFStrGe.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/udf/UDFStrGe.java
+END
+UDAFMin.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/udf/UDAFMin.java
+END
+UDFRand.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/udf/UDFRand.java
+END
+UDFRegExpReplace.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/udf/UDFRegExpReplace.java
+END
+UDAFMax.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/udf/UDAFMax.java
+END
+UDFRound.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/udf/UDFRound.java
+END
+UDFOPNotEqual.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/udf/UDFOPNotEqual.java
+END
+UDFLower.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/udf/UDFLower.java
+END
+UDFStrLe.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/udf/UDFStrLe.java
+END
+UDAFCount.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/udf/UDAFCount.java
+END
+UDFOPNotNull.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/udf/UDFOPNotNull.java
+END
+UDFUpper.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/udf/UDFUpper.java
+END
+UDFStrNe.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/udf/UDFStrNe.java
+END
+UDFStrEq.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/udf/UDFStrEq.java
+END
+UDFOPNot.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/udf/UDFOPNot.java
+END
+UDFOPPositive.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/udf/UDFOPPositive.java
+END
+UDFOPAnd.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/udf/UDFOPAnd.java
+END
+UDFToLong.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/udf/UDFToLong.java
+END
+UDFToByte.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/udf/UDFToByte.java
+END
+UDFOPEqual.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/udf/UDFOPEqual.java
+END
+UDFTrim.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/udf/UDFTrim.java
+END
+UDFToDouble.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/udf/UDFToDouble.java
+END
+UDAFAvg.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/udf/UDAFAvg.java
+END
+UDFOPMultiply.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/udf/UDFOPMultiply.java
+END
+UDFOPMod.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/udf/UDFOPMod.java
+END
+UDFOPLessThan.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/udf/UDFOPLessThan.java
+END
+UDFSubstr.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/udf/UDFSubstr.java
+END
+UDFToBoolean.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/udf/UDFToBoolean.java
+END
+UDFLike.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/udf/UDFLike.java
+END
+UDFLTrim.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/udf/UDFLTrim.java
+END
+UDFRegExp.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/udf/UDFRegExp.java
+END
+UDFOPMinus.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/udf/UDFOPMinus.java
+END
+UDFOPEqualOrGreaterThan.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/udf/UDFOPEqualOrGreaterThan.java
+END
+UDFRTrim.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/udf/UDFRTrim.java
+END
+UDFOPBitNot.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/udf/UDFOPBitNot.java
+END
+UDFToInteger.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/udf/UDFToInteger.java
+END
+UDFOPBitAnd.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/udf/UDFOPBitAnd.java
+END
+UDFOPNegative.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/udf/UDFOPNegative.java
+END
+UDFOPGreaterThan.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/udf/UDFOPGreaterThan.java
+END
+UDFStrGt.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/udf/UDFStrGt.java
+END
+UDFOPDivide.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/udf/UDFOPDivide.java
+END
+UDAFSum.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/udf/UDAFSum.java
+END
+UDFOPBitXor.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/udf/UDFOPBitXor.java
+END
+UDFConcat.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/udf/UDFConcat.java
+END
+UDFToFloat.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/udf/UDFToFloat.java
+END
+UDFStrLt.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/udf/UDFStrLt.java
+END
+UDFOPEqualOrLessThan.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/udf/UDFOPEqualOrLessThan.java
+END
+UDFToString.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/udf/UDFToString.java
+END
+UDFOPNull.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/udf/UDFOPNull.java
+END
+UDFSize.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/udf/UDFSize.java
+END
+UDFCeil.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/udf/UDFCeil.java
+END
+UDFOPBitOr.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/udf/UDFOPBitOr.java
+END
+UDFDefaultSampleHashFn.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/udf/UDFDefaultSampleHashFn.java
+END

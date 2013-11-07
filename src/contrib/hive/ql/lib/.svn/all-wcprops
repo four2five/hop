@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/lib
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/lib/README
+END
+antlr-3.0.1.LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/lib/antlr-3.0.1.LICENSE
+END
+antlr-runtime-3.0.1.LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/lib/antlr-runtime-3.0.1.LICENSE
+END
+stringtemplate-3.1b1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/lib/stringtemplate-3.1b1.jar
+END
+commons-jexl-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/lib/commons-jexl-1.1.jar
+END
+antlr-2.7.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/lib/antlr-2.7.7.jar
+END
+stringtemplate-3.1b1.LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/lib/stringtemplate-3.1b1.LICENSE
+END
+antlr-3.0.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/lib/antlr-3.0.1.jar
+END
+commons-jexl-1.1.LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/lib/commons-jexl-1.1.LICENSE
+END
+antlr-runtime-3.0.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/lib/antlr-runtime-3.0.1.jar
+END
+antlr-2.7.7.LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/lib/antlr-2.7.7.LICENSE
+END

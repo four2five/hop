@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/src/contrib/hive/serde/src/java/org/apache/hadoop/hive/serde2/objectinspector
+END
+StructObjectInspector.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/2/trunk/src/contrib/hive/serde/src/java/org/apache/hadoop/hive/serde2/objectinspector/StructObjectInspector.java
+END
+StandardPrimitiveObjectInspector.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/2/trunk/src/contrib/hive/serde/src/java/org/apache/hadoop/hive/serde2/objectinspector/StandardPrimitiveObjectInspector.java
+END
+StandardListObjectInspector.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/2/trunk/src/contrib/hive/serde/src/java/org/apache/hadoop/hive/serde2/objectinspector/StandardListObjectInspector.java
+END
+UnionStructObjectInspector.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/2/trunk/src/contrib/hive/serde/src/java/org/apache/hadoop/hive/serde2/objectinspector/UnionStructObjectInspector.java
+END
+StandardMapObjectInspector.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/2/trunk/src/contrib/hive/serde/src/java/org/apache/hadoop/hive/serde2/objectinspector/StandardMapObjectInspector.java
+END
+ReflectionStructObjectInspector.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/2/trunk/src/contrib/hive/serde/src/java/org/apache/hadoop/hive/serde2/objectinspector/ReflectionStructObjectInspector.java
+END
+ObjectInspectorUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/2/trunk/src/contrib/hive/serde/src/java/org/apache/hadoop/hive/serde2/objectinspector/ObjectInspectorUtils.java
+END
+InspectableObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/2/trunk/src/contrib/hive/serde/src/java/org/apache/hadoop/hive/serde2/objectinspector/InspectableObject.java
+END
+StandardStructObjectInspector.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/2/trunk/src/contrib/hive/serde/src/java/org/apache/hadoop/hive/serde2/objectinspector/StandardStructObjectInspector.java
+END
+ThriftStructObjectInspector.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/2/trunk/src/contrib/hive/serde/src/java/org/apache/hadoop/hive/serde2/objectinspector/ThriftStructObjectInspector.java
+END
+ObjectInspectorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/2/trunk/src/contrib/hive/serde/src/java/org/apache/hadoop/hive/serde2/objectinspector/ObjectInspectorFactory.java
+END
+PrimitiveObjectInspector.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/2/trunk/src/contrib/hive/serde/src/java/org/apache/hadoop/hive/serde2/objectinspector/PrimitiveObjectInspector.java
+END
+StructField.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/2/trunk/src/contrib/hive/serde/src/java/org/apache/hadoop/hive/serde2/objectinspector/StructField.java
+END
+ListObjectInspector.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/2/trunk/src/contrib/hive/serde/src/java/org/apache/hadoop/hive/serde2/objectinspector/ListObjectInspector.java
+END
+MapObjectInspector.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/2/trunk/src/contrib/hive/serde/src/java/org/apache/hadoop/hive/serde2/objectinspector/MapObjectInspector.java
+END
+ObjectInspector.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/2/trunk/src/contrib/hive/serde/src/java/org/apache/hadoop/hive/serde2/objectinspector/ObjectInspector.java
+END
+MetadataListStructObjectInspector.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/2/trunk/src/contrib/hive/serde/src/java/org/apache/hadoop/hive/serde2/objectinspector/MetadataListStructObjectInspector.java
+END

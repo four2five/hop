@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/572/trunk/src/mapred/org/apache/hadoop/mapred/buffer/net
+END
+ReduceBufferRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/423/trunk/src/mapred/org/apache/hadoop/mapred/buffer/net/ReduceBufferRequest.java
+END
+BufferExchange.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/483/trunk/src/mapred/org/apache/hadoop/mapred/buffer/net/BufferExchange.java
+END
+BufferExchangeSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/572/trunk/src/mapred/org/apache/hadoop/mapred/buffer/net/BufferExchangeSource.java
+END
+MapBufferRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/373/trunk/src/mapred/org/apache/hadoop/mapred/buffer/net/MapBufferRequest.java
+END
+BufferExchangeSink.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/572/trunk/src/mapred/org/apache/hadoop/mapred/buffer/net/BufferExchangeSink.java
+END
+BufferRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/373/trunk/src/mapred/org/apache/hadoop/mapred/buffer/net/BufferRequest.java
+END

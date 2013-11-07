@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/src/contrib/chukwa/src/java/org/apache/hadoop/chukwa/util
+END
+DatabaseWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/src/contrib/chukwa/src/java/org/apache/hadoop/chukwa/util/DatabaseWriter.java
+END
+MaxRateSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/src/contrib/chukwa/src/java/org/apache/hadoop/chukwa/util/MaxRateSender.java
+END
+RecordConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/src/contrib/chukwa/src/java/org/apache/hadoop/chukwa/util/RecordConstants.java
+END
+ExceptionUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/src/contrib/chukwa/src/java/org/apache/hadoop/chukwa/util/ExceptionUtil.java
+END
+ConstRateAdaptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/src/contrib/chukwa/src/java/org/apache/hadoop/chukwa/util/ConstRateAdaptor.java
+END

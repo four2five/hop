@@ -1,0 +1,169 @@
+10
+
+dir
+1058
+http://hop.googlecode.com/svn/trunk/src/contrib/chukwa
+http://hop.googlecode.com/svn
+
+
+
+2009-11-12T00:29:17.759205Z
+63
+neil.conway
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+16c7f58c-ca77-11de-a9c8-2fbcfba63733
+
+chukwafy_jobhist.awk
+file
+
+
+
+
+2013-11-06T23:26:05.025200Z
+4e59739a8c4f844de142aee9870950ae
+2009-11-06T05:37:28.476499Z
+2
+neil.conway
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+631
+
+conf
+dir
+
+src
+dir
+
+docs
+dir
+
+var
+dir
+
+hadoopjars
+dir
+
+hadoop-packaging
+dir
+
+build.xml
+file
+
+
+
+
+2013-11-06T23:26:05.025200Z
+53b0e77359bf7396a2308c5b3a075158
+2009-11-06T05:37:28.476499Z
+2
+neil.conway
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13534
+
+build
+dir
+
+tools
+dir
+
+LICENSE.txt
+file
+
+
+
+
+2013-11-06T23:26:05.025200Z
+3b83ef96387f14655fc854ddc3c6bd57
+2009-11-06T05:37:28.476499Z
+2
+neil.conway
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11358
+
+opt
+dir
+
+dist
+dir
+
+lib
+dir
+
+bin
+dir
+
+test
+dir
+

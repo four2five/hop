@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/src/contrib/chukwa/bin
+END
+VERSION
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/src/contrib/chukwa/bin/VERSION
+END
+agent.sh
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/src/contrib/chukwa/bin/agent.sh
+END
+watchdog.sh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/src/contrib/chukwa/bin/watchdog.sh
+END
+jobhisttailstarter.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/src/contrib/chukwa/bin/jobhisttailstarter.sh
+END
+startup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/src/contrib/chukwa/bin/startup.sh
+END
+buildDailyArchive.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/src/contrib/chukwa/bin/buildDailyArchive.sh
+END
+buildHourlyArchive.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/src/contrib/chukwa/bin/buildHourlyArchive.sh
+END
+systemDataLoader.sh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/src/contrib/chukwa/bin/systemDataLoader.sh
+END
+chukwa-config.sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/src/contrib/chukwa/bin/chukwa-config.sh
+END
+processSinkFiles.sh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/src/contrib/chukwa/bin/processSinkFiles.sh
+END
+jettyCollector.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/src/contrib/chukwa/bin/jettyCollector.sh
+END
+shutdown.sh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/src/contrib/chukwa/bin/shutdown.sh
+END

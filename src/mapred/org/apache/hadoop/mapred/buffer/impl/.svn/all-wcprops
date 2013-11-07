@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/572/trunk/src/mapred/org/apache/hadoop/mapred/buffer/impl
+END
+JInputBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/570/trunk/src/mapred/org/apache/hadoop/mapred/buffer/impl/JInputBuffer.java
+END
+JSnapshotBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/572/trunk/src/mapred/org/apache/hadoop/mapred/buffer/impl/JSnapshotBuffer.java
+END
+JOutputBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/570/trunk/src/mapred/org/apache/hadoop/mapred/buffer/impl/JOutputBuffer.java
+END
+Buffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/373/trunk/src/mapred/org/apache/hadoop/mapred/buffer/impl/Buffer.java
+END
+ValuesIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/373/trunk/src/mapred/org/apache/hadoop/mapred/buffer/impl/ValuesIterator.java
+END

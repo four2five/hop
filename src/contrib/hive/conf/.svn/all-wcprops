@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/src/contrib/hive/conf
+END
+jpox.properties
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/src/contrib/hive/conf/jpox.properties
+END
+hive-default.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/src/contrib/hive/conf/hive-default.xml
+END
+configuration.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/src/contrib/hive/conf/configuration.xsl
+END
+hive-log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/src/contrib/hive/conf/hive-log4j.properties
+END

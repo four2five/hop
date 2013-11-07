@@ -1,0 +1,857 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/577/trunk/src/mapred/org/apache/hadoop/mapred
+END
+Task_FileSystemCounter.properties
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/Task_FileSystemCounter.properties
+END
+SequenceFileAsTextRecordReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/SequenceFileAsTextRecordReader.java
+END
+Child.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/373/trunk/src/mapred/org/apache/hadoop/mapred/Child.java
+END
+MultiFileInputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/MultiFileInputFormat.java
+END
+KeyValueTextInputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/KeyValueTextInputFormat.java
+END
+RealTimeRecordReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/419/trunk/src/mapred/org/apache/hadoop/mapred/RealTimeRecordReader.java
+END
+JobInProgressListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/JobInProgressListener.java
+END
+SequenceFileInputFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/SequenceFileInputFilter.java
+END
+MapReduceBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/MapReduceBase.java
+END
+RecordReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/RecordReader.java
+END
+IndexRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/IndexRecord.java
+END
+InputCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/419/trunk/src/mapred/org/apache/hadoop/mapred/InputCollector.java
+END
+OutputCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/OutputCollector.java
+END
+BufferSorter.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/BufferSorter.java
+END
+JobSubmissionProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/JobSubmissionProtocol.java
+END
+TaskLogServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/TaskLogServlet.java
+END
+RunningJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/RunningJob.java
+END
+RecordWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/RecordWriter.java
+END
+JobTrackerMetricsInst.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/JobTrackerMetricsInst.java
+END
+KillTaskAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/KillTaskAction.java
+END
+JobQueueClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/JobQueueClient.java
+END
+TextOutputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/TextOutputFormat.java
+END
+IFileOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/217/trunk/src/mapred/org/apache/hadoop/mapred/IFileOutputStream.java
+END
+SequenceFileRecordReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/SequenceFileRecordReader.java
+END
+JobProfile.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/JobProfile.java
+END
+JobConfigurable.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/JobConfigurable.java
+END
+LaunchTaskAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/LaunchTaskAction.java
+END
+CleanupQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/CleanupQueue.java
+END
+SkipBadRecords.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/SkipBadRecords.java
+END
+JobQueueTaskScheduler.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/JobQueueTaskScheduler.java
+END
+JobShell.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/JobShell.java
+END
+MapFileOutputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/MapFileOutputFormat.java
+END
+InvalidFileTypeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/InvalidFileTypeException.java
+END
+OutputLogFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/OutputLogFilter.java
+END
+JobPriority.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/JobPriority.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/package.html
+END
+TaskInProgress.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/82/trunk/src/mapred/org/apache/hadoop/mapred/TaskInProgress.java
+END
+JvmTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/JvmTask.java
+END
+KillJobAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/KillJobAction.java
+END
+Mapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/Mapper.java
+END
+InvalidInputException.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/InvalidInputException.java
+END
+JobID.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/JobID.java
+END
+IFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/217/trunk/src/mapred/org/apache/hadoop/mapred/IFile.java
+END
+IndexCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/IndexCache.java
+END
+TaskCompletionEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/TaskCompletionEvent.java
+END
+JobEndNotifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/JobEndNotifier.java
+END
+Reporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/Reporter.java
+END
+MultiFileSplit.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/MultiFileSplit.java
+END
+CommitTaskAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/CommitTaskAction.java
+END
+MRConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/MRConstants.java
+END
+JobStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/JobStatus.java
+END
+JobContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/JobContext.java
+END
+JobConf.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/JobConf.java
+END
+JobChangeEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/JobChangeEvent.java
+END
+TaskLogAppender.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/TaskLogAppender.java
+END
+IFileInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/217/trunk/src/mapred/org/apache/hadoop/mapred/IFileInputStream.java
+END
+PipelineMapTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/513/trunk/src/mapred/org/apache/hadoop/mapred/PipelineMapTask.java
+END
+JSPUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/JSPUtil.java
+END
+IsolationRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/373/trunk/src/mapred/org/apache/hadoop/mapred/IsolationRunner.java
+END
+MergeSorter.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/MergeSorter.java
+END
+MapTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/490/trunk/src/mapred/org/apache/hadoop/mapred/MapTask.java
+END
+FileAlreadyExistsException.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/FileAlreadyExistsException.java
+END
+Partitioner.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/Partitioner.java
+END
+TaskTrackerMetricsInst.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/TaskTrackerMetricsInst.java
+END
+ReinitTrackerAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/ReinitTrackerAction.java
+END
+MapRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/MapRunner.java
+END
+JobClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/541/trunk/src/mapred/org/apache/hadoop/mapred/JobClient.java
+END
+JobTrackerInstrumentation.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/JobTrackerInstrumentation.java
+END
+RamManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/217/trunk/src/mapred/org/apache/hadoop/mapred/RamManager.java
+END
+ReduceTaskCompletionEventsUpdate.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/ReduceTaskCompletionEventsUpdate.java
+END
+TaskAttemptID.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/TaskAttemptID.java
+END
+TaskMemoryManagerThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/TaskMemoryManagerThread.java
+END
+DefaultJobHistoryParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/DefaultJobHistoryParser.java
+END
+HeartbeatResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/HeartbeatResponse.java
+END
+ResourceEstimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/ResourceEstimator.java
+END
+KeyValueLineRecordReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/KeyValueLineRecordReader.java
+END
+FlushedOutputCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/FlushedOutputCollector.java
+END
+JobTracker.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/550/trunk/src/mapred/org/apache/hadoop/mapred/JobTracker.java
+END
+CompletedJobStatusStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/CompletedJobStatusStore.java
+END
+Reducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/Reducer.java
+END
+JobQueueInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/JobQueueInfo.java
+END
+SequenceFileAsBinaryOutputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/SequenceFileAsBinaryOutputFormat.java
+END
+FileHandle.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/217/trunk/src/mapred/org/apache/hadoop/mapred/FileHandle.java
+END
+FileSplit.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/FileSplit.java
+END
+TaskReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/TaskReport.java
+END
+SortedRanges.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/SortedRanges.java
+END
+TaskScheduler.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/TaskScheduler.java
+END
+TaskLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/TaskLog.java
+END
+MapRunnable.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/MapRunnable.java
+END
+DisallowedTaskTrackerException.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/DisallowedTaskTrackerException.java
+END
+TaskUmbilicalProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/TaskUmbilicalProtocol.java
+END
+LimitTasksPerJobTaskScheduler.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/LimitTasksPerJobTaskScheduler.java
+END
+FileOutputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/FileOutputFormat.java
+END
+LineRecordReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/LineRecordReader.java
+END
+TaskTrackerManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/TaskTrackerManager.java
+END
+OutputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/OutputFormat.java
+END
+InputSplit.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/InputSplit.java
+END
+TaskID.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/TaskID.java
+END
+LocalJobRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/217/trunk/src/mapred/org/apache/hadoop/mapred/LocalJobRunner.java
+END
+MapTaskCompletionEventsUpdate.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/MapTaskCompletionEventsUpdate.java
+END
+ReduceTaskRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/ReduceTaskRunner.java
+END
+JvmManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/JvmManager.java
+END
+SequenceFileAsTextInputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/SequenceFileAsTextInputFormat.java
+END
+SequenceFileAsBinaryInputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/SequenceFileAsBinaryInputFormat.java
+END
+JobQueueJobInProgressListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/JobQueueJobInProgressListener.java
+END
+TaskRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/TaskRunner.java
+END
+ReduceTaskStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/ReduceTaskStatus.java
+END
+SequenceFileOutputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/SequenceFileOutputFormat.java
+END
+InvalidJobConfException.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/InvalidJobConfException.java
+END
+TaskStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/TaskStatus.java
+END
+TaskTrackerAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/TaskTrackerAction.java
+END
+QueueManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/QueueManager.java
+END
+TaskTrackerStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/TaskTrackerStatus.java
+END
+OutputCommitter.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/OutputCommitter.java
+END
+EagerTaskInitializationListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/EagerTaskInitializationListener.java
+END
+FileOutputCommitter.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/FileOutputCommitter.java
+END
+JobStatusChangeEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/JobStatusChangeEvent.java
+END
+ReduceTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/513/trunk/src/mapred/org/apache/hadoop/mapred/ReduceTask.java
+END
+MapTaskRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/MapTaskRunner.java
+END
+JobHistory.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/JobHistory.java
+END
+ID.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/ID.java
+END
+TaskTrackerInstrumentation.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/TaskTrackerInstrumentation.java
+END
+Task.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/373/trunk/src/mapred/org/apache/hadoop/mapred/Task.java
+END
+MapTaskStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/MapTaskStatus.java
+END
+JVMId.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/JVMId.java
+END
+RawKeyValueIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/RawKeyValueIterator.java
+END
+StatusHttpServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/StatusHttpServer.java
+END
+Task_Counter.properties
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/Task_Counter.properties
+END
+TextInputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/TextInputFormat.java
+END
+TaskTracker.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/482/trunk/src/mapred/org/apache/hadoop/mapred/TaskTracker.java
+END
+InterTrackerProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/InterTrackerProtocol.java
+END
+Merger.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/217/trunk/src/mapred/org/apache/hadoop/mapred/Merger.java
+END
+HistoryViewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/HistoryViewer.java
+END
+ClusterStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/ClusterStatus.java
+END
+JobInProgress.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/541/trunk/src/mapred/org/apache/hadoop/mapred/JobInProgress.java
+END
+JobInProgress_Counter.properties
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/JobInProgress_Counter.properties
+END
+SequenceFileInputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/SequenceFileInputFormat.java
+END
+Counters.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/Counters.java
+END
+TaskAttemptContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/TaskAttemptContext.java
+END
+InputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/InputFormat.java
+END
+FileInputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/FileInputFormat.java
+END
+BasicTypeSorterBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/src/mapred/org/apache/hadoop/mapred/BasicTypeSorterBase.java
+END

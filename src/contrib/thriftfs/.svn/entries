@@ -1,0 +1,135 @@
+10
+
+dir
+1058
+http://hop.googlecode.com/svn/trunk/src/contrib/thriftfs
+http://hop.googlecode.com/svn
+
+
+
+2009-11-06T05:37:28.476499Z
+2
+neil.conway
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+16c7f58c-ca77-11de-a9c8-2fbcfba63733
+
+gen-perl
+dir
+
+gen-rb
+dir
+
+test
+dir
+
+scripts
+dir
+
+src
+dir
+
+gen-java
+dir
+
+gen-cpp
+dir
+
+gen-cocoa
+dir
+
+README
+file
+
+
+
+
+2013-11-06T23:26:05.833190Z
+d604242011ccab10edff05f9d9bae85d
+2009-11-06T05:37:28.476499Z
+2
+neil.conway
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1551
+
+gen-st
+dir
+
+build.xml
+file
+
+
+
+
+2013-11-06T23:26:05.833190Z
+f3b2afede5ab747b788e4cb25c66058c
+2009-11-06T05:37:28.476499Z
+2
+neil.conway
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2073
+
+gen-php
+dir
+
+if
+dir
+
+gen-py
+dir
+
+lib
+dir
+

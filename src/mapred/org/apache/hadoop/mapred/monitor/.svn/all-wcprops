@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/569/trunk/src/mapred/org/apache/hadoop/mapred/monitor
+END
+MonitorClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/554/trunk/src/mapred/org/apache/hadoop/mapred/monitor/MonitorClient.java
+END
+MeasurementTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/566/trunk/src/mapred/org/apache/hadoop/mapred/monitor/MeasurementTable.java
+END
+MonitorServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/569/trunk/src/mapred/org/apache/hadoop/mapred/monitor/MonitorServer.java
+END
+Agent.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/523/trunk/src/mapred/org/apache/hadoop/mapred/monitor/Agent.java
+END
+MapMonitorRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/523/trunk/src/mapred/org/apache/hadoop/mapred/monitor/MapMonitorRunner.java
+END
+Aggregator.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/523/trunk/src/mapred/org/apache/hadoop/mapred/monitor/Aggregator.java
+END
+ClockInputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/523/trunk/src/mapred/org/apache/hadoop/mapred/monitor/ClockInputFormat.java
+END
+Measurement.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/555/trunk/src/mapred/org/apache/hadoop/mapred/monitor/Measurement.java
+END

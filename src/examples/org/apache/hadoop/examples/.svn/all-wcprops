@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1027/trunk/src/examples/org/apache/hadoop/examples
+END
+AggregateWordCount.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/src/examples/org/apache/hadoop/examples/AggregateWordCount.java
+END
+Grep.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/src/examples/org/apache/hadoop/examples/Grep.java
+END
+Join.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/src/examples/org/apache/hadoop/examples/Join.java
+END
+MultiFileWordCount.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/src/examples/org/apache/hadoop/examples/MultiFileWordCount.java
+END
+PiEstimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/src/examples/org/apache/hadoop/examples/PiEstimator.java
+END
+AggregateWordHistogram.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/src/examples/org/apache/hadoop/examples/AggregateWordHistogram.java
+END
+CQ.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/418/trunk/src/examples/org/apache/hadoop/examples/CQ.java
+END
+SleepJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/src/examples/org/apache/hadoop/examples/SleepJob.java
+END
+ExampleDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/528/trunk/src/examples/org/apache/hadoop/examples/ExampleDriver.java
+END
+RandomWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/src/examples/org/apache/hadoop/examples/RandomWriter.java
+END
+TopK.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/28/trunk/src/examples/org/apache/hadoop/examples/TopK.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/src/examples/org/apache/hadoop/examples/package.html
+END
+TopKWordCount.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/29/trunk/src/examples/org/apache/hadoop/examples/TopKWordCount.java
+END
+WikiStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/371/trunk/src/examples/org/apache/hadoop/examples/WikiStats.java
+END
+RandomTextWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/src/examples/org/apache/hadoop/examples/RandomTextWriter.java
+END
+WordCount.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1027/trunk/src/examples/org/apache/hadoop/examples/WordCount.java
+END
+DBCountPageView.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/src/examples/org/apache/hadoop/examples/DBCountPageView.java
+END
+Sort.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/src/examples/org/apache/hadoop/examples/Sort.java
+END

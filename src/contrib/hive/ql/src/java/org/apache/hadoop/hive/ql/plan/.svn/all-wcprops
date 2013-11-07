@@ -1,0 +1,275 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/plan
+END
+exprNodeDesc.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/plan/exprNodeDesc.java
+END
+descTableDesc.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/plan/descTableDesc.java
+END
+groupByDesc.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/plan/groupByDesc.java
+END
+loadTableDesc.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/plan/loadTableDesc.java
+END
+FunctionWork.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/plan/FunctionWork.java
+END
+joinDesc.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/plan/joinDesc.java
+END
+exprNodeFuncDesc.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/plan/exprNodeFuncDesc.java
+END
+schemaDesc.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/plan/schemaDesc.java
+END
+explainWork.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/plan/explainWork.java
+END
+forwardDesc.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/plan/forwardDesc.java
+END
+scriptDesc.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/plan/scriptDesc.java
+END
+createFunctionDesc.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/plan/createFunctionDesc.java
+END
+partitionDesc.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/plan/partitionDesc.java
+END
+moveWork.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/plan/moveWork.java
+END
+PlanUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/plan/PlanUtils.java
+END
+dropTableDesc.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/plan/dropTableDesc.java
+END
+copyWork.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/plan/copyWork.java
+END
+filterDesc.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/plan/filterDesc.java
+END
+collectDesc.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/plan/collectDesc.java
+END
+aggregationDesc.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/plan/aggregationDesc.java
+END
+tableDesc.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/plan/tableDesc.java
+END
+exprNodeFieldDesc.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/plan/exprNodeFieldDesc.java
+END
+reduceSinkDesc.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/plan/reduceSinkDesc.java
+END
+showPartitionsDesc.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/plan/showPartitionsDesc.java
+END
+fetchWork.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/plan/fetchWork.java
+END
+exprNodeConstantDesc.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/plan/exprNodeConstantDesc.java
+END
+explain.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/plan/explain.java
+END
+exprNodeColumnDesc.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/plan/exprNodeColumnDesc.java
+END
+ddlDesc.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/plan/ddlDesc.java
+END
+fileSinkDesc.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/plan/fileSinkDesc.java
+END
+joinCond.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/plan/joinCond.java
+END
+DDLWork.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/plan/DDLWork.java
+END
+extractDesc.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/plan/extractDesc.java
+END
+createTableDesc.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/plan/createTableDesc.java
+END
+showTablesDesc.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/plan/showTablesDesc.java
+END
+exprNodeIndexDesc.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/plan/exprNodeIndexDesc.java
+END
+mapredWork.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/plan/mapredWork.java
+END
+limitDesc.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/plan/limitDesc.java
+END
+mapredplan.jr
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/plan/mapredplan.jr
+END
+loadFileDesc.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/plan/loadFileDesc.java
+END
+selectDesc.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/plan/selectDesc.java
+END
+exprNodeNullDesc.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/plan/exprNodeNullDesc.java
+END
+loadDesc.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/plan/loadDesc.java
+END
+alterTableDesc.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/plan/alterTableDesc.java
+END
+explosionDesc.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/plan/explosionDesc.java
+END

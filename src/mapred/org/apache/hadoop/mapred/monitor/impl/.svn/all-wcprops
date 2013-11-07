@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/557/trunk/src/mapred/org/apache/hadoop/mapred/monitor/impl
+END
+SystemStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/557/trunk/src/mapred/org/apache/hadoop/mapred/monitor/impl/SystemStats.java
+END
+SystemMeasurement.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/557/trunk/src/mapred/org/apache/hadoop/mapred/monitor/impl/SystemMeasurement.java
+END

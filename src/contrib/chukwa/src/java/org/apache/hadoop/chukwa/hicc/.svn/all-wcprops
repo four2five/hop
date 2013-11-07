@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/src/contrib/chukwa/src/java/org/apache/hadoop/chukwa/hicc
+END
+TimeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/src/contrib/chukwa/src/java/org/apache/hadoop/chukwa/hicc/TimeHandler.java
+END
+ColorPicker.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/src/contrib/chukwa/src/java/org/apache/hadoop/chukwa/hicc/ColorPicker.java
+END
+Views.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/src/contrib/chukwa/src/java/org/apache/hadoop/chukwa/hicc/Views.java
+END
+Workspace.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/src/contrib/chukwa/src/java/org/apache/hadoop/chukwa/hicc/Workspace.java
+END
+JSONLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/src/contrib/chukwa/src/java/org/apache/hadoop/chukwa/hicc/JSONLoader.java
+END
+Config.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/src/contrib/chukwa/src/java/org/apache/hadoop/chukwa/hicc/Config.java
+END
+ClusterConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/src/contrib/chukwa/src/java/org/apache/hadoop/chukwa/hicc/ClusterConfig.java
+END
+ViewsTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/src/contrib/chukwa/src/java/org/apache/hadoop/chukwa/hicc/ViewsTag.java
+END
+DatasetMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/src/contrib/chukwa/src/java/org/apache/hadoop/chukwa/hicc/DatasetMapper.java
+END

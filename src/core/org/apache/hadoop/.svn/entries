@@ -1,0 +1,98 @@
+10
+
+dir
+1058
+http://hop.googlecode.com/svn/trunk/src/core/org/apache/hadoop
+http://hop.googlecode.com/svn
+
+
+
+2009-12-04T04:04:15.999124Z
+137
+neil.conway
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+16c7f58c-ca77-11de-a9c8-2fbcfba63733
+
+security
+dir
+
+io
+dir
+
+fs
+dir
+
+ipc
+dir
+
+HadoopVersionAnnotation.java
+file
+
+
+
+
+2013-11-06T23:26:20.097011Z
+003c4fb06456ac259fc90596eeb05024
+2009-11-06T05:37:28.476499Z
+2
+neil.conway
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1574
+
+util
+dir
+
+record
+dir
+
+http
+dir
+
+log
+dir
+
+filecache
+dir
+
+conf
+dir
+
+net
+dir
+
+metrics
+dir
+

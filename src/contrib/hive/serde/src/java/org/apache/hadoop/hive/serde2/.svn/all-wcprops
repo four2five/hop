@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/src/contrib/hive/serde/src/java/org/apache/hadoop/hive/serde2
+END
+TypedSerDe.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/src/contrib/hive/serde/src/java/org/apache/hadoop/hive/serde2/TypedSerDe.java
+END
+ByteStreamTypedSerDe.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2/trunk/src/contrib/hive/serde/src/java/org/apache/hadoop/hive/serde2/ByteStreamTypedSerDe.java
+END
+Serializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/src/contrib/hive/serde/src/java/org/apache/hadoop/hive/serde2/Serializer.java
+END
+ColumnSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/src/contrib/hive/serde/src/java/org/apache/hadoop/hive/serde2/ColumnSet.java
+END
+ThriftByteStreamTypedSerDe.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/2/trunk/src/contrib/hive/serde/src/java/org/apache/hadoop/hive/serde2/ThriftByteStreamTypedSerDe.java
+END
+TReflectionUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/trunk/src/contrib/hive/serde/src/java/org/apache/hadoop/hive/serde2/TReflectionUtils.java
+END
+ByteStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/src/contrib/hive/serde/src/java/org/apache/hadoop/hive/serde2/ByteStream.java
+END
+SerDeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/src/contrib/hive/serde/src/java/org/apache/hadoop/hive/serde2/SerDeException.java
+END
+SerDe.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/src/contrib/hive/serde/src/java/org/apache/hadoop/hive/serde2/SerDe.java
+END
+Deserializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/src/contrib/hive/serde/src/java/org/apache/hadoop/hive/serde2/Deserializer.java
+END
+MetadataTypedColumnsetSerDe.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/2/trunk/src/contrib/hive/serde/src/java/org/apache/hadoop/hive/serde2/MetadataTypedColumnsetSerDe.java
+END
+ThriftDeserializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2/trunk/src/contrib/hive/serde/src/java/org/apache/hadoop/hive/serde2/ThriftDeserializer.java
+END
+SerDeUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/src/contrib/hive/serde/src/java/org/apache/hadoop/hive/serde2/SerDeUtils.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/src/contrib/fuse-dfs/src
+END
+fuse_dfs.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/src/contrib/fuse-dfs/src/fuse_dfs.c
+END
+fuse_dfs_wrapper.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/src/contrib/fuse-dfs/src/fuse_dfs_wrapper.sh
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/src/contrib/fuse-dfs/src/Makefile.am
+END

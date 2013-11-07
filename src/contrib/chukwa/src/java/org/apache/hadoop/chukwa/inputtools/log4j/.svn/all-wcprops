@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/src/contrib/chukwa/src/java/org/apache/hadoop/chukwa/inputtools/log4j
+END
+ChukwaDailyRollingFileAppender.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/2/trunk/src/contrib/chukwa/src/java/org/apache/hadoop/chukwa/inputtools/log4j/ChukwaDailyRollingFileAppender.java
+END
+OneLineLogLayout.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2/trunk/src/contrib/chukwa/src/java/org/apache/hadoop/chukwa/inputtools/log4j/OneLineLogLayout.java
+END

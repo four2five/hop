@@ -1,0 +1,141 @@
+10
+
+dir
+1058
+http://hop.googlecode.com/svn/trunk/src/contrib
+http://hop.googlecode.com/svn
+
+
+
+2009-11-12T00:29:17.759205Z
+63
+neil.conway
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+16c7f58c-ca77-11de-a9c8-2fbcfba63733
+
+hive
+dir
+
+build-contrib.xml
+file
+
+
+
+
+2013-11-06T23:26:12.797102Z
+c57fbea48369ccc2f8f2a96c807faac7
+2009-11-06T05:37:28.476499Z
+2
+neil.conway
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9302
+
+build.xml
+file
+
+
+
+
+2013-11-06T23:26:12.797102Z
+b986f0390f84a1c17c9e8238306701fc
+2009-11-06T05:37:28.476499Z
+2
+neil.conway
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2527
+
+index
+dir
+
+ec2
+dir
+
+capacity-scheduler
+dir
+
+hod
+dir
+
+fuse-dfs
+dir
+
+test
+dir
+
+eclipse-plugin
+dir
+
+fairscheduler
+dir
+
+chukwa
+dir
+
+failmon
+dir
+
+bash-tab-completion
+dir
+
+data_join
+dir
+
+thriftfs
+dir
+
+streaming
+dir
+

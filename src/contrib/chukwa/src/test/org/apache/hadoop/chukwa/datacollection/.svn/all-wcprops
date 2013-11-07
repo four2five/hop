@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/src/contrib/chukwa/src/test/org/apache/hadoop/chukwa/datacollection
+END
+TempFileUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2/trunk/src/contrib/chukwa/src/test/org/apache/hadoop/chukwa/datacollection/TempFileUtil.java
+END
+TestAgentCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2/trunk/src/contrib/chukwa/src/test/org/apache/hadoop/chukwa/datacollection/TestAgentCollector.java
+END

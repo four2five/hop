@@ -1,0 +1,135 @@
+10
+
+dir
+1058
+http://hop.googlecode.com/svn/trunk/src
+http://hop.googlecode.com/svn
+
+
+
+2010-07-26T22:43:14.191483Z
+1027
+npansareCise
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+16c7f58c-ca77-11de-a9c8-2fbcfba63733
+
+mapred
+dir
+
+c++
+dir
+
+saveVersion.sh
+file
+
+
+
+
+2013-11-06T23:26:22.744977Z
+ed1e1acbd45c7b3d876c708df45baef7
+2009-11-06T05:37:28.476499Z
+2
+neil.conway
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1691
+
+benchmarks
+dir
+
+examples
+dir
+
+test
+dir
+
+ant
+dir
+
+hdfs
+dir
+
+fixFontsPath.sh
+file
+
+
+
+
+2013-11-06T23:26:22.740977Z
+008e1b2549a6e4249bf9bdb60a54e8e5
+2009-11-06T05:37:28.476499Z
+2
+neil.conway
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3401
+
+native
+dir
+
+core
+dir
+
+docs
+dir
+
+tools
+dir
+
+contrib
+dir
+
+webapps
+dir
+

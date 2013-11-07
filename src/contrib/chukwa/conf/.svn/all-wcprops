@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/63/trunk/src/contrib/chukwa/conf
+END
+chukwa-env.sh.template
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/63/trunk/src/contrib/chukwa/conf/chukwa-env.sh.template
+END
+queueinfo.properties
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/src/contrib/chukwa/conf/queueinfo.properties
+END
+nodeActivity.properties
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/src/contrib/chukwa/conf/nodeActivity.properties
+END
+fields.spec
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/src/contrib/chukwa/conf/fields.spec
+END
+chukwa-agent-conf.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/src/contrib/chukwa/conf/chukwa-agent-conf.xml
+END
+chukwa-collector-conf.xml.template
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/63/trunk/src/contrib/chukwa/conf/chukwa-collector-conf.xml.template
+END
+mysql_upgrade_tables
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/src/contrib/chukwa/conf/mysql_upgrade_tables
+END
+joblog.properties
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/src/contrib/chukwa/conf/joblog.properties
+END
+util.properties
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/src/contrib/chukwa/conf/util.properties
+END
+collectors
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/src/contrib/chukwa/conf/collectors
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/src/contrib/chukwa/conf/log4j.properties
+END
+torque.properties
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/src/contrib/chukwa/conf/torque.properties
+END
+chukwa-agent-conf.xml.template
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/63/trunk/src/contrib/chukwa/conf/chukwa-agent-conf.xml.template
+END
+mdl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/src/contrib/chukwa/conf/mdl.xml
+END
+chukwa-env.sh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/src/contrib/chukwa/conf/chukwa-env.sh
+END
+mysql_create_tables
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/src/contrib/chukwa/conf/mysql_create_tables
+END
+collectors.template
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/63/trunk/src/contrib/chukwa/conf/collectors.template
+END
+mdl.xml.template
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/63/trunk/src/contrib/chukwa/conf/mdl.xml.template
+END
+chukwa-collector-conf.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/src/contrib/chukwa/conf/chukwa-collector-conf.xml
+END
+system-data-loader.properties
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/src/contrib/chukwa/conf/system-data-loader.properties
+END
+commons-logging.properties
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/src/contrib/chukwa/conf/commons-logging.properties
+END

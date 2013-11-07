@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/src/contrib/hive/metastore/src/java/org/apache/hadoop/hive/metastore
+END
+RawStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/trunk/src/contrib/hive/metastore/src/java/org/apache/hadoop/hive/metastore/RawStore.java
+END
+IMetaStoreClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2/trunk/src/contrib/hive/metastore/src/java/org/apache/hadoop/hive/metastore/IMetaStoreClient.java
+END
+HiveMetaStoreClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/2/trunk/src/contrib/hive/metastore/src/java/org/apache/hadoop/hive/metastore/HiveMetaStoreClient.java
+END
+HiveMetaStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2/trunk/src/contrib/hive/metastore/src/java/org/apache/hadoop/hive/metastore/HiveMetaStore.java
+END
+HiveMetaException.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2/trunk/src/contrib/hive/metastore/src/java/org/apache/hadoop/hive/metastore/HiveMetaException.java
+END
+ObjectStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2/trunk/src/contrib/hive/metastore/src/java/org/apache/hadoop/hive/metastore/ObjectStore.java
+END
+MetaStoreUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2/trunk/src/contrib/hive/metastore/src/java/org/apache/hadoop/hive/metastore/MetaStoreUtils.java
+END
+DB.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/src/contrib/hive/metastore/src/java/org/apache/hadoop/hive/metastore/DB.java
+END
+Table.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/src/contrib/hive/metastore/src/java/org/apache/hadoop/hive/metastore/Table.java
+END
+ROTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/src/contrib/hive/metastore/src/java/org/apache/hadoop/hive/metastore/ROTable.java
+END
+MetaStoreServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2/trunk/src/contrib/hive/metastore/src/java/org/apache/hadoop/hive/metastore/MetaStoreServer.java
+END
+FileStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/trunk/src/contrib/hive/metastore/src/java/org/apache/hadoop/hive/metastore/FileStore.java
+END
+RWTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/src/contrib/hive/metastore/src/java/org/apache/hadoop/hive/metastore/RWTable.java
+END
+Warehouse.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/trunk/src/contrib/hive/metastore/src/java/org/apache/hadoop/hive/metastore/Warehouse.java
+END
+MetaStoreClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2/trunk/src/contrib/hive/metastore/src/java/org/apache/hadoop/hive/metastore/MetaStoreClient.java
+END
+MetaStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/trunk/src/contrib/hive/metastore/src/java/org/apache/hadoop/hive/metastore/MetaStore.java
+END

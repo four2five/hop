@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/src/contrib/hive/serde/src/java/org/apache/hadoop/hive/serde
+END
+ReflectionSerDeField.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2/trunk/src/contrib/hive/serde/src/java/org/apache/hadoop/hive/serde/ReflectionSerDeField.java
+END
+SerDeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/src/contrib/hive/serde/src/java/org/apache/hadoop/hive/serde/SerDeException.java
+END
+SerDe.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/src/contrib/hive/serde/src/java/org/apache/hadoop/hive/serde/SerDe.java
+END
+SerDeUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/src/contrib/hive/serde/src/java/org/apache/hadoop/hive/serde/SerDeUtils.java
+END
+SerDeField.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/src/contrib/hive/serde/src/java/org/apache/hadoop/hive/serde/SerDeField.java
+END
+ConstantTypedSerDeField.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2/trunk/src/contrib/hive/serde/src/java/org/apache/hadoop/hive/serde/ConstantTypedSerDeField.java
+END
+TypedSerDe.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/src/contrib/hive/serde/src/java/org/apache/hadoop/hive/serde/TypedSerDe.java
+END
+ByteStreamTypedSerDe.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2/trunk/src/contrib/hive/serde/src/java/org/apache/hadoop/hive/serde/ByteStreamTypedSerDe.java
+END
+ColumnSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/src/contrib/hive/serde/src/java/org/apache/hadoop/hive/serde/ColumnSet.java
+END
+TListSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/src/contrib/hive/serde/src/java/org/apache/hadoop/hive/serde/TListSerializer.java
+END
+ComplexSerDeField.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/trunk/src/contrib/hive/serde/src/java/org/apache/hadoop/hive/serde/ComplexSerDeField.java
+END
+TReflectionUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/trunk/src/contrib/hive/serde/src/java/org/apache/hadoop/hive/serde/TReflectionUtils.java
+END
+ByteStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/src/contrib/hive/serde/src/java/org/apache/hadoop/hive/serde/ByteStream.java
+END
+ExpressionUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/src/contrib/hive/serde/src/java/org/apache/hadoop/hive/serde/ExpressionUtils.java
+END

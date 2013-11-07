@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/src/contrib/hive/metastore/include/thrift/processor
+END
+PeekProcessor.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/src/contrib/hive/metastore/include/thrift/processor/PeekProcessor.h
+END
+StatsProcessor.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/src/contrib/hive/metastore/include/thrift/processor/StatsProcessor.h
+END

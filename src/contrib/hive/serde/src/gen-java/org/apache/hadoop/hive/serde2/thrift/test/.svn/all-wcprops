@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/src/contrib/hive/serde/src/gen-java/org/apache/hadoop/hive/serde2/thrift/test
+END
+Complex.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2/trunk/src/contrib/hive/serde/src/gen-java/org/apache/hadoop/hive/serde2/thrift/test/Complex.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2/trunk/src/contrib/hive/serde/src/gen-java/org/apache/hadoop/hive/serde2/thrift/test/Constants.java
+END
+IntString.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2/trunk/src/contrib/hive/serde/src/gen-java/org/apache/hadoop/hive/serde2/thrift/test/IntString.java
+END

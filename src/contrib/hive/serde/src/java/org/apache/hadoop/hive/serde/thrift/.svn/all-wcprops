@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/src/contrib/hive/serde/src/java/org/apache/hadoop/hive/serde/thrift
+END
+ThriftSerDeField.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2/trunk/src/contrib/hive/serde/src/java/org/apache/hadoop/hive/serde/thrift/ThriftSerDeField.java
+END
+ThriftByteStreamTypedSerDe.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/2/trunk/src/contrib/hive/serde/src/java/org/apache/hadoop/hive/serde/thrift/ThriftByteStreamTypedSerDe.java
+END
+columnsetSerDe.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2/trunk/src/contrib/hive/serde/src/java/org/apache/hadoop/hive/serde/thrift/columnsetSerDe.java
+END
+TCTLSeparatedProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/2/trunk/src/contrib/hive/serde/src/java/org/apache/hadoop/hive/serde/thrift/TCTLSeparatedProtocol.java
+END
+ThriftSerDe.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2/trunk/src/contrib/hive/serde/src/java/org/apache/hadoop/hive/serde/thrift/ThriftSerDe.java
+END

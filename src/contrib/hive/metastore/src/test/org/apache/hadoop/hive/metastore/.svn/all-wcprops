@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/src/contrib/hive/metastore/src/test/org/apache/hadoop/hive/metastore
+END
+TestPartitions.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2/trunk/src/contrib/hive/metastore/src/test/org/apache/hadoop/hive/metastore/TestPartitions.java
+END
+MetaStoreTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2/trunk/src/contrib/hive/metastore/src/test/org/apache/hadoop/hive/metastore/MetaStoreTestBase.java
+END
+TestHiveMetaStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2/trunk/src/contrib/hive/metastore/src/test/org/apache/hadoop/hive/metastore/TestHiveMetaStore.java
+END
+TestGetSchema.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2/trunk/src/contrib/hive/metastore/src/test/org/apache/hadoop/hive/metastore/TestGetSchema.java
+END
+TestTablePath.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2/trunk/src/contrib/hive/metastore/src/test/org/apache/hadoop/hive/metastore/TestTablePath.java
+END
+TestDrop.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/trunk/src/contrib/hive/metastore/src/test/org/apache/hadoop/hive/metastore/TestDrop.java
+END
+TestTruncate.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2/trunk/src/contrib/hive/metastore/src/test/org/apache/hadoop/hive/metastore/TestTruncate.java
+END
+TestDBGetName.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2/trunk/src/contrib/hive/metastore/src/test/org/apache/hadoop/hive/metastore/TestDBGetName.java
+END
+TestTableExists.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2/trunk/src/contrib/hive/metastore/src/test/org/apache/hadoop/hive/metastore/TestTableExists.java
+END
+TestGetTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2/trunk/src/contrib/hive/metastore/src/test/org/apache/hadoop/hive/metastore/TestGetTable.java
+END
+TestAlter.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/trunk/src/contrib/hive/metastore/src/test/org/apache/hadoop/hive/metastore/TestAlter.java
+END
+TestGetDBs.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2/trunk/src/contrib/hive/metastore/src/test/org/apache/hadoop/hive/metastore/TestGetDBs.java
+END
+TestCreateDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2/trunk/src/contrib/hive/metastore/src/test/org/apache/hadoop/hive/metastore/TestCreateDB.java
+END
+TestGetTables.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2/trunk/src/contrib/hive/metastore/src/test/org/apache/hadoop/hive/metastore/TestGetTables.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/src/contrib/hive/metastore/src/gen-php
+END
+hive_metastore_constants.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/src/contrib/hive/metastore/src/gen-php/hive_metastore_constants.php
+END
+ThriftHiveMetastore.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/src/contrib/hive/metastore/src/gen-php/ThriftHiveMetastore.php
+END
+hive_metastore_types.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/src/contrib/hive/metastore/src/gen-php/hive_metastore_types.php
+END
+ThriftMetaStore.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/src/contrib/hive/metastore/src/gen-php/ThriftMetaStore.php
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/typeinfo
+END
+TypeInfoFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/typeinfo/TypeInfoFactory.java
+END
+PrimitiveTypeInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/typeinfo/PrimitiveTypeInfo.java
+END
+ListTypeInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/typeinfo/ListTypeInfo.java
+END
+MapTypeInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/typeinfo/MapTypeInfo.java
+END
+TypeInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/typeinfo/TypeInfo.java
+END
+TypeInfoUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/typeinfo/TypeInfoUtils.java
+END
+StructTypeInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/trunk/src/contrib/hive/ql/src/java/org/apache/hadoop/hive/ql/typeinfo/StructTypeInfo.java
+END

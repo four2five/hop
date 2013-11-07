@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/src/contrib/hive/metastore/include/thrift/concurrency
+END
+Util.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/src/contrib/hive/metastore/include/thrift/concurrency/Util.h
+END
+Exception.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/src/contrib/hive/metastore/include/thrift/concurrency/Exception.h
+END
+Mutex.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/src/contrib/hive/metastore/include/thrift/concurrency/Mutex.h
+END
+ThreadManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/src/contrib/hive/metastore/include/thrift/concurrency/ThreadManager.h
+END
+PosixThreadFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/src/contrib/hive/metastore/include/thrift/concurrency/PosixThreadFactory.h
+END
+Monitor.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/src/contrib/hive/metastore/include/thrift/concurrency/Monitor.h
+END
+Thread.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/src/contrib/hive/metastore/include/thrift/concurrency/Thread.h
+END
+TimerManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/src/contrib/hive/metastore/include/thrift/concurrency/TimerManager.h
+END

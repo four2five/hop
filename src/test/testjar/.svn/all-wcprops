@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/src/test/testjar
+END
+ClassWordCount.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/src/test/testjar/ClassWordCount.java
+END
+ExternalWritable.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/src/test/testjar/ExternalWritable.java
+END
+CustomOutputCommitter.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/src/test/testjar/CustomOutputCommitter.java
+END
+ExternalMapperReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/src/test/testjar/ExternalMapperReducer.java
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/src/contrib/hive/metastore/include/thrift/transport
+END
+TZlibTransport.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/src/contrib/hive/metastore/include/thrift/transport/TZlibTransport.h
+END
+TTransportUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/src/contrib/hive/metastore/include/thrift/transport/TTransportUtils.h
+END
+THttpClient.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/src/contrib/hive/metastore/include/thrift/transport/THttpClient.h
+END
+TServerSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/src/contrib/hive/metastore/include/thrift/transport/TServerSocket.h
+END
+TSocketPool.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/src/contrib/hive/metastore/include/thrift/transport/TSocketPool.h
+END
+TServerTransport.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/src/contrib/hive/metastore/include/thrift/transport/TServerTransport.h
+END
+TSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/src/contrib/hive/metastore/include/thrift/transport/TSocket.h
+END
+TTransportException.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/src/contrib/hive/metastore/include/thrift/transport/TTransportException.h
+END
+TFileTransport.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/src/contrib/hive/metastore/include/thrift/transport/TFileTransport.h
+END
+TTransport.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/src/contrib/hive/metastore/include/thrift/transport/TTransport.h
+END
